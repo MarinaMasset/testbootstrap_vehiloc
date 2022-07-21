@@ -9,7 +9,7 @@ Réaliser la reproduction de la maquette : véhi'loc, un site de location de vé
 Les outils techniques à utiliser : HTML et Bootstrap.
 Si nécessaire, vous pouvez utiliser une feuille CSS qui complètera les styles manquants à Boostrap.
 
-Les liens de la navigation présents sur le header doient rediriger vers leur ancres respectives sauf inscription et connexion qui seront des "modales" dont le rendu est libre.
+Les liens de la navigation présents sur le header doivent rediriger vers leur ancres respectives sauf inscription et connexion qui seront des "modales" dont le rendu est libre.
 
 Les liens, petits logos (voiture, camion ...) et toutes "Card" doivent grossir si je les survole.
 

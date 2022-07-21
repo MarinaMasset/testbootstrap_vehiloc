@@ -1,0 +1,54 @@
+ul {
+    list-style-type: none;
+}
+
+.rowheader {
+    background-color: #36C4B3;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+.form {
+    background-color:#bdf7f0;
+    /*n'arrive pas à mettre l'opacité seulement sur le fond derrière le formulaire puis le retirer après donc je préfère le retirer pour la visibilité et changer la couleur ci-dessus pour un bleu pâle
+    opacity:0.25; */
+}
+
+.rowform {
+    max-height: fit-content;
+}
+
+.opacityform {
+    /*opacité 1 pourrait être retirée car elle était censée annuler l'opacité 0.25 du parent, mais je ne parviens pas à retirer l'opacité de l'enfant pour l'instant*/
+    opacity:1;
+}
+
+.opacityform {
+    background-color: white;
+    width:fit-content;
+}
+
+.searchbutton {
+    background-color: #36C4B3;
+    border-color: #36C4B3;
+}
+
+.imagesoffer {
+    background-color:#bdf7f0;
+}
+
+.faq {
+    background-color:#bdf7f0; 
+}
+
+.faqquestion {
+    background-color: #36C4B3;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+/*ne parviens pas à faire grossir le logo*/
+}

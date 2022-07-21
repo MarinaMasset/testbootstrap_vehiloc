@@ -28,7 +28,10 @@ a {
 
 .opacityform {
     background-color: white;
+    border:rgba(217, 215, 215, 0.799) 2px solid;
+    box-shadow:rgb(234, 234, 234) 2px 2px 2px;
     width:fit-content;
+    border-radius: 2%;
 }
 
 .searchbutton {
@@ -50,5 +53,9 @@ a {
 
 .logo:hover {
     transform: scale(1.1);
-/*ne parviens pas à faire grossir le logo*/
+}
+
+.buttonlogo {
+    background-color:unset;
+    border:none;
 }
